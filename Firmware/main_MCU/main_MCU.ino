@@ -34,5 +34,3 @@ void shutdownCar() {
   //kill the car
   return;
 }
-
-// hvuhvhudv
